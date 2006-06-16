@@ -1,0 +1,3 @@
+category: X11
+requires: mkfontdir mkfontscale fontconfig xorg-encodings xorg-font-alias
+sdesc: "Xorg Sony fonts"
