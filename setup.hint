@@ -1,4 +1,4 @@
 category: X11
-requires: mkfontdir mkfontscale fontconfig font-encodings font-alias
+requires: mkfontdir mkfontscale fontconfig font-encodings
 sdesc: "X.Org Sony fonts"
 ldesc: "X.Org Sony fonts"
